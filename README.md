@@ -6,7 +6,7 @@ The Simplex method is an approach to solving linear programming models by hand u
 ●	Pivot variables
 ●	Creating a new tableau
 ●	Checking for optimality
-●	Identify optimal values
+
 
 
 This code breaks down the Simplex method into the above steps.
